@@ -20,3 +20,4 @@
 18. Accordion: https://accordion-js-app.netlify.app/
 19. Weight-converter: https://weight-converter-js-app-kaniz.netlify.app/
 20. Form-validation: https://form-validation-app-js.netlify.app/
+21. Quote-of-the-day: https://quote-of-the-day-js.netlify.app/
